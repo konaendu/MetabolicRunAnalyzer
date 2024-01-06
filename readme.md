@@ -11,6 +11,7 @@ Mader, A., & Heck, H. (1986). A Theory of the Metabolic Origin of “Anaerobic T
 
 Mader, A. (2003). Glycolysis and oxidative phosphorylation as a function of cytosolic phosphorylation state and power output of the muscle cell. https://doi.org/10.1007/s00421-002-0676-3
 
+
 Hauser, T. (2014) Comparison of calculated and experimental power in maximal lactate-steady state during cycling. https://doi.org/10.1186%2F1742-4682-11-25
 
 ```
