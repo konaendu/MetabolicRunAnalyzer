@@ -16,6 +16,12 @@ Hauser, T. (2014) Comparison of calculated and experimental power in maximal lac
 
 ```
 
+And because it was burried in the end part of this doc. These two notebooks were a great help:
+
+https://www.kaggle.com/code/rasaff57/metabolic-power
+https://www.kaggle.com/code/rasaff57/anaerobic-threshold-via-vo2max-and-vlamax-v2
+
+
 # 1. Run protocol & first calculations :
 
 I'm using a sprint 6min & 12min all out efforts where we measure heart rate and pace and distance.
