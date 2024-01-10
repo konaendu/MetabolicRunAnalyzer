@@ -62,7 +62,7 @@ function calculateMetabolicPowerSteadyState(speed, terrainCoefficient) {
     
     // Example usage
     let speed = speedmsSPRINT; // Speed in m/s (steady-state)
-    let terrainCoefficient = 1.1; // Coefficient for grass
+    let terrainCoefficient = 1.1; // Coefficient for not shitty treadmill or road
     
     let vo2Demand = calculateMetabolicPowerSteadyState(speed, terrainCoefficient);
     console.log("VO2 Demand (Steady-State): " + vo2Demand.toFixed(2) + " ml/min/kg");
