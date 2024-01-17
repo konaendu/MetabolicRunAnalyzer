@@ -46,7 +46,7 @@ The vo2 demand from the Sprint test is calculated this way:
 ```java
 function calculateMetabolicPowerSteadyState(speed, terrainCoefficient) {
         // Energy cost of steady-state running (J/kg*m)
-        // The energy cost is 4.64 J/kg*m for steady-state running (with KT = 1.29)
+        // The energy cost is 3.87 J/kg*m for steady-state running (with KT = 1.1)
         let energyCost = 3.87 * terrainCoefficient;
     
         // Calculate metabolic power (Pmet) in W/kg
